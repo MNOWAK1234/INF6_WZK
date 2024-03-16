@@ -1,2 +1,2 @@
 # Cryptography Classes Poznan University of Technology
-* BBS
+* BBS with FIPS 140-2 Testing
