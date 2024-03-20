@@ -3,3 +3,4 @@
 * RSA
 * Integer Factorization (For Cracking RSA)
 * Diffie-Hellman
+* Hashing Functions
