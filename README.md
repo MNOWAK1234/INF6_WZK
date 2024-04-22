@@ -4,3 +4,5 @@
 * Integer Factorization (For Cracking RSA)
 * Diffie-Hellman
 * Hashing Functions
+* Visual Cryptography
+* Shamir's secret sharing
